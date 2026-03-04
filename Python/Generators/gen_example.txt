@@ -1,0 +1,2 @@
+Private attributes are name-mangled but still accessible if needed (though discouraged).
+Public attributes are freely accessible.
